@@ -1,0 +1,63 @@
+Pre [0.3.2]
+	- Created Windows
+	- Created Framwork
+	- Basic Multithreading
+
+[0.3.2]
+	- Dual screens working
+	- Framework Created
+	- Start & Stop buttons added
+	- Easyer Multi(parellel)threading
+	- Linked Windows
+
+[0.3.3]
+	- Minor Fix: Fixed a bug where Widgets werent displaying properly
+
+[0.3.4]
+	- Titles Added
+	- Reorgonised Variables
+	- Fixed Globalization Errror
+
+[0.4.5]
+	- Tickboxes Added
+	- Fixed bug where color wasnt applying properly
+	- Fixed tickbox varibles not changing
+	- Other  Minor Bugfixes 
+
+[0.4.6]
+	- Minor Fix: Ticks not showing when activated
+
+[0.5.0]
+	- Super Secret Setting 1/2 implimented
+	- Many Bugfixes Surrounding This
+
+[0.5.3]
+	- Text Boxes Added
+	- Fixed Grid Error
+	- Contry Textbox now is added and removed depending on state of contry Tickbox
+	- Many BugFixes
+	- Reogonized variables to better suit layout
+	- Fixed Golobalizaton Error #2]
+
+[0.6.0]
+	- Added Main Loop Variables
+	- Fixed Globalization Error
+	- Added Contry Detecton (Not Finnished)
+	- Added Os Detection
+	- Gave Mainloop Code semicompatability.
+
+[0.7.0]
+	- Added Main Loop
+	- Fixed error being thrown when main window closed
+
+[0.8.0]
+	- Added Main Loop threading
+	- Shrunk Main window from 600x600 to 400x400
+	- Corrected My Stupid Spelling
+	- Fixed Minor Bugs
+
+[0.9.0]
+	-
+	-
+	-
+	-
